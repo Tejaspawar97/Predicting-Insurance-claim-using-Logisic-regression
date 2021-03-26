@@ -21,6 +21,6 @@ The file contains data dictionary(Dictionary explaining what each feature of the
 In this project, I applied the following concepts:
 
 EDA & Data Preprocessing
-Correlation between the features
-Model Building using Logistic Regression
-After completing this project, you will have a better understanding of how to build a logistic regression model.
+Correlation between the features,
+Model Building using Logistic Regression,
+logistic regression model.
